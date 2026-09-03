@@ -1,0 +1,10 @@
+_site/
+_build/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+vendor/
+.bundle/
+Gemfile.lock
+node_modules/
+serve.sh
